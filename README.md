@@ -9,7 +9,7 @@
 |1 | `GetAllScoreData`|サーバーからスコアをキーに降順でソートしたScoreDataのコレクションを取得し画面に表示するSiv3Dアプリケーション|実行には Siv3D August 2016 v2 が必要|
 |2 | `GetScoreData`|サーバーから指定したidのScoreDataを取得し表示するSiv3Dアプリケーション|実行には Siv3D August 2016 v2 が必要|
 |3 | `PostScoreData`|サーバーにScoreDataを送信するSiv3Dアプリケーション|実行には Siv3D August 2016 v2 が必要|
-|4 | `RankingServer`|サーバー側のASP.NET Coreアプリケーション|実行には .NET Core 2.1 が必要|
+|4 | `RankingServer`|サーバー側のASP.NET Core MVCアプリケーション|実行には .NET Core 2.1 が必要|
 
 ## Usage
 
